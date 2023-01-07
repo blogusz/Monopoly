@@ -16,7 +16,7 @@ Bogusz Laszczyk, Kornelia Susz
 6 pkt - wariant podstawowy, 8 pkt - wariant rozszerzony
 
 ## Wersja
-1 – osobowa.
+1 – osobowa
 	
 ## Cel projektu
 Stworzenie programu implementującego grę w Monopol.
