@@ -25,7 +25,7 @@ Stworzenie programu implementującego grę w Monopol.
 2 kostki, 6 pionków, 28 kart własności, 16 kart Szansa, 16 kart Kasa społeczna, domki i hotele, wartości liczbowe zamiast banknotów.
 
 ## Wymagania
-Obowiązują oficjalne zasady gry ze strony http://www.zasadygry.pl/monopoly_31_1.htm .
+Obowiązują oficjalne zasady gry ze strony http://www.zasadygry.pl/monopoly_31_1.htm.
 
 Jednocześnie grać może od 2 do 6 graczy. Akcje wykonywać może tylko gracz, który rozgrywa daną turę (wyjątek stanowi licytacja i pobieranie czynszu w wersji rozszerzonej). Plansza składa się z 40 pól. Pola specjalne jak Start, Więzienie, Parking, Idź do więzienia, Stacje kolejowe, Szansa, Kasa społeczna oraz Podatki muszą znajdować się w tych samych miejscach co w oryginalnym Monopolu. Pola te jednak mogą różnić się nazwami i wyglądem. Efekt ich działania ma być podobny lub taki sam do tych znanych z gry.
 
